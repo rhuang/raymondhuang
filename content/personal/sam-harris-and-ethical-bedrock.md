@@ -6,6 +6,7 @@ categories:
   - personal
 tags:
   - influences
+bookToc: false
 ---
 
 # Sam Harris and Cenk Uygur Clear the Air on Religious Violence and Islam

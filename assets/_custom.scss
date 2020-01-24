@@ -1,0 +1,7 @@
+@media screen and (max-width: $sm-breakpoint) {
+  .book-header {
+    label[for='menu-control'] {
+      margin-right: $padding-16;
+    }
+  }
+}

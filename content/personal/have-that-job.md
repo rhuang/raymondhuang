@@ -6,6 +6,7 @@ categories:
   - personal
 tags:
   - career
+bookToc: false
 ---
 
 {{< figure src="/images/bill-clinton-kennedy-1.jpg" alt="Bill Clinton shakes JFK's hand" >}}
