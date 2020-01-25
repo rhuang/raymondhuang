@@ -5,6 +5,7 @@ googleAnalytics: UA-31603152-1
 baseURL: https://raymondhuang.com/
 title: Raymond Huang
 theme: book
+disableKinds: ['taxonomy', 'taxonomyTerm']
 
 # Book configuration
 # (Optional) Set this to true if you use capital letters in file names
@@ -12,6 +13,10 @@ disablePathToLower: true
 # (Optional) Set this to true to enable 'Last Modified by' date and git author
 # information on 'doc' type pages.
 enableGitInfo: false
+
+# Code highlight
+# pygmentsStyle: monokailight
+pygmentsCodeFences: true
 
 # Needed for mermaid/katex shortcodes
 markup:
@@ -51,7 +56,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/rhuang/raymondhuang
+  # BookRepo: https://github.com/rhuang/raymondhuang
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
