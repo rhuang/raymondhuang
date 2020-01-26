@@ -8,13 +8,13 @@ tags:
   - trip reports
 ---
 
-{{< figure src="/images/zermatt/zermatt-view-3.jpg" >}}
+{{< figure src="media/zermatt-view-3.jpg" >}}
 
 # Weekend snowboarding at Zermatt
 
 In December 2015, I went on a business trip to Luxembourg for a month. On the weekends, I took advantage of Luxembourg's great central location in Europe and went travelling. I've been snowboarding since I was young, and saw this as a great opportunity to make a quick snowboarding trip to the alps, the great white expanse of powder and breath taking mountain ranges. I did my research and decided on Zermatt, where the Matterhorn is located. I picked Zermatt over some of the other more convenient locations because Zermatt sits at the highest elevation with the highest peak station, the Klein Matterhorn, at about 4000m. Given that I was going mid-December, which was relatively early for the season that year, I wanted to make sure I had a good chance of hitting good snow. Leaving on Friday night after work from Luxembourg and getting back to Luxembourg on Monday morning, while fitting in two days of snowboarding at Zermatt, was no easy task.
 
-{{< figure src="/images/zermatt/zermatt-view-5.jpg" >}}
+{{< figure src="media/zermatt-view-5.jpg" >}}
 
 I planned a month in advance in minute detail, in order to waste as little time as possible searching for information on my phone while I was there. Plane and train tickets were bought, hotel and equipment rentals were reserved. I poured over maps of the Zermatt village, scoped out restaurants to eat at, and made sure I knew the routes around the slopes.
 
@@ -62,7 +62,7 @@ I planned a month in advance in minute detail, in order to waste as little time 
 
 ### **Saturday 11:00 - 16:00:** Snowboard!
 
-{{< figure src="/images/zermatt/zermatt-me.jpg" >}}
+{{< figure src="media/zermatt-me.jpg" >}}
 
 - There are 3 main lifts at Zermatt: Matterhorn Glacier Paradise - Schwarzsee, Sunnegga - Rothorn, and Gornergrat.
 - I chose to only go on the Matterhorn Glacier Paradise because:
@@ -75,44 +75,44 @@ I planned a month in advance in minute detail, in order to waste as little time 
 ### **Saturday 16:00 - end of day:** Explore the village.
 
 {{< columns >}}
-{{< figure src="/images/zermatt/zermatt-village-2.jpg" >}}
+{{< figure src="media/zermatt-village-2.jpg" >}}
 <--->
-{{< figure src="/images/zermatt/zermatt-village-3.jpg" >}}
+{{< figure src="media/zermatt-village-3.jpg" >}}
 {{< /columns >}}
 
 {{< columns >}}
-{{< figure src="/images/zermatt/zermatt-village-4.jpg" >}}
+{{< figure src="media/zermatt-village-4.jpg" >}}
 <--->
-{{< figure src="/images/zermatt/zermatt-village-5.jpg" >}}
+{{< figure src="media/zermatt-village-5.jpg" >}}
 {{< /columns >}}
 
 {{< columns >}}
-{{< figure src="/images/zermatt/zermatt-village-8.jpg" >}}
+{{< figure src="media/zermatt-village-8.jpg" >}}
 <--->
-{{< figure src="/images/zermatt/zermatt-village-6.jpg" >}}
+{{< figure src="media/zermatt-village-6.jpg" >}}
 {{< /columns >}}
 
-{{< figure src="/images/zermatt/zermatt-village-9.jpg" >}}
+{{< figure src="media/zermatt-village-9.jpg" >}}
 
 - I stored my equipment at Dorsaz Sport and walked back to the hotel to freshen up.
 - I had dinner at [Elsie's Bar](https://www.tripadvisor.ca/Restaurant_Review-g188098-d1015784-Reviews-Elsie_s_Bar-Zermatt_Canton_of_Valais_Swiss_Alps.html). I had a plate of 3 oysters, a steak, and a Swiss bear, for 75 CHF. The steak was served with a raclette instead of the mashed potatoes that we get in North America. The food is pricey but delicious.
 
 {{< columns >}}
-{{< figure src="/images/zermatt/zermatt-view-9.jpg" >}}
+{{< figure src="media/zermatt-view-9.jpg" >}}
 <--->
-{{< figure src="/images/zermatt/zermatt-view-8.jpg" >}}
+{{< figure src="media/zermatt-view-8.jpg" >}}
 {{< /columns >}}
 
-{{< figure src="/images/zermatt/zermatt-view-7.jpg" >}}
+{{< figure src="media/zermatt-view-7.jpg" >}}
 
 - After dinner, Zermatt has a lot of interesting stores to offer. There is a Coop in front of the train station, high end Swiss chocolate at [Laderach](http://www.yelp.com/biz/l%C3%A4derach-chocolatier-suisse-zermatt), and several clothing stores.
 
 ### **Sunday 08:30 - 16:00:** Cervinia.
 
 {{< columns >}}
-{{< figure src="/images/zermatt/cervinia-1.jpg" >}}
+{{< figure src="media/cervinia-1.jpg" >}}
 <--->
-{{< figure src="/images/zermatt/cervinia-2.jpg" >}}
+{{< figure src="media/cervinia-2.jpg" >}}
 {{< /columns >}}
 
 - I got into the lift at 08:30 right when it opens, with the goal of making my way to Cervinia in Italy.
@@ -131,15 +131,15 @@ I planned a month in advance in minute detail, in order to waste as little time 
       - The pasta is amazing - no matter what you order, you can't go wrong.
 
 {{< columns >}}
-{{< figure src="/images/zermatt/zermatt-lunch.jpg" >}}
+{{< figure src="media/zermatt-lunch.jpg" >}}
 <--->
-{{< figure src="/images/zermatt/zermatt-lunch-terrace.jpg" >}}
+{{< figure src="media/zermatt-lunch-terrace.jpg" >}}
 {{< /columns >}}
 
 - At Cervinia village, walk over to the Plan Maison gondola and take that up to Testa Grigia.
 - From Testa Grigia, you can make your way back to Zermatt on the other side.
 
-{{< figure src="/images/zermatt/zermatt-jesus.jpg" >}}
+{{< figure src="media/zermatt-jesus.jpg" >}}
 
 ### **Sunday 06:00 - Monday** Back to Geneva and Luxembourg City.
 

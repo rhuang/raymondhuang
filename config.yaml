@@ -4,8 +4,8 @@ googleAnalytics: UA-31603152-1
 
 baseURL: https://raymondhuang.com/
 title: Raymond Huang
-theme: book
-disableKinds: ['taxonomy', 'taxonomyTerm']
+theme: [hugo-video, book]
+disableKinds: [taxonomy, taxonomyTerm]
 
 # Book configuration
 # (Optional) Set this to true if you use capital letters in file names

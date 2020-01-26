@@ -10,7 +10,7 @@ tags:
   - career
 ---
 
-{{< figure src="/images/success-kid.jpg" alt="Success kid" >}}
+{{< figure src="media/success-kid.jpg" alt="Success kid" >}}
 
 # Being successful
 
