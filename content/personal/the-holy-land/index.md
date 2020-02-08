@@ -16,7 +16,7 @@ I highly recommend using https://www.simtoisrael.com/. I purchased a 14 day plan
 
 Alternatively, you can try to find the Steimetzky store at the airport, on the 3rd floor, after the baggage claim in the arrival hall. Steimetzky is like a convenient store that will carry prepaid SIM cards that tourists can buy. Their lighted sign is green and white and there should be a red SIM card shaped sign in the middle of their signage.
 
-# December 13
+# December 13, Thursday
 
 ## Luxembourg to Tel Aviv
 
@@ -51,3 +51,35 @@ For dinner, I walked over to [Saluf and Sons](https://www.tripadvisor.com/Restau
 After dinner, I went back to the hostel and joined the pub crawl. We jumped between a few bars on Rothschild Boulevard. I was shocked by how expensive drinking in Tel Aviv is. At the first bar we went to, I was getting a round of drinks for 2 other guys, and 3 beers came out to about 100 shekels, which is about $30. I thought I was being scammed because I'm a tourist, but it turns out a beer is about $10 in a bar. It was nice the pub crawl didn't take us to those foreigner-only bars that make the whole night feel like a scam. The bars we went to had plenty of local Israelis out and about.
 
 {{< video src="media/tlv-pub-crawl-1" >}}
+
+{{< columns >}}
+
+{{< figure src="media/tlv-late-night-shawarma-1.jpg" caption="Lots of people waiting in line for late night snacks." >}}
+
+<--->
+
+{{< figure src="media/tlv-late-night-shawarma-2.jpg" caption="$5 drunk schawarma." >}}
+
+{{< /columns >}}
+
+# December 14, Friday
+
+## Palmach Museum
+
+You have to make an online tour reservation at the Palmach Museum in order to visit. I woke up with a hangover to go to my 10:30am reservation, but on arrival, I was told by the security at the museum that the museum was closed the day. I bussed back to the hostel to take a nap.
+
+## Beach Front
+
+In the afternoon, I walked over to the beachfront. The weather was great and people were out and about. I probably walked for about 2 hours up and down the coast.
+
+{{< columns >}}
+
+{{< figure src="media/tlv-beach-1.jpg" >}}
+
+<--->
+
+{{< figure src="media/tlv-beach-2.jpg" >}}
+
+{{< /columns >}}
+
+For lunch, I ate at [Nina Cafe](https://www.tripadvisor.com/Restaurant_Review-g293984-d2590053-Reviews-Nina_Cafe_Bistro-Tel_Aviv_Tel_Aviv_District.html) and sat outside. The food was mediocre, serving up the typical sandwiches. I ordered a goat cheese sandwich. I ate here regardless because I was starving, also wanted a coffee, and the cafe was in a bustling spot in [Neve Tzedek](https://www.timeout.com/israel/things-to-do/the-ultimate-guide-to-neve-tzedek), which made it awesome to rest and people watch.
